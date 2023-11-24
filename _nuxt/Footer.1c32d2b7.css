@@ -1,0 +1,1 @@
+.fade-in-scroll{opacity:0;transform:translateY(20px);transition:opacity .6s ease-out,transform .6s ease-out,visibility .6s;visibility:hidden}.fade-in-scroll:hover{opacity:1;transform:translateY(0);visibility:visible}table[data-v-c8231048]{font-size:.8rem}td[data-v-c8231048]{padding:.25rem}
